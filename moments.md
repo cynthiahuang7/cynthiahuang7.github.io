@@ -57,37 +57,37 @@ permalink: /moments/
 <h2 class="year-title">2023</h2>
 <div class="gallery">
     <div class="photo tall">
-        <img src="/assets/images/2023_1.jpg" alt="Tall Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_1.jpg" alt="Tall Image">
     </div>
     <div class="photo tall">
-        <img src="/assets/images/2023_2.jpg" alt="Tall Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_2.jpg" alt="Tall Image">
     </div>
         <div class="photo tall">
-        <img src="/assets/images/2023_3.jpg" alt="Tall Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_3.jpg" alt="Tall Image">
     </div>
     <div class="photo tall">
-        <img src="/assets/images/2023_4.jpg" alt="Tall Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_4.jpg" alt="Tall Image">
     </div>
     <div class="photo tall">
-        <img src="/assets/images/2023_5.jpg" alt="Tall Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_5.jpg" alt="Tall Image">
     </div>
     <div class="photo tall">
-        <img src="/assets/images/2023_6.jpg" alt="Tall Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_6.jpg" alt="Tall Image">
     </div>
     <div class="photo wide">
-        <img src="/assets/images/2023_7.jpg" alt="Wide Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_7.jpg" alt="Wide Image">
     </div>
     <div class="photo wide">
-        <img src="/assets/images/2023_8.jpg" alt="Wide Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_8.jpg" alt="Wide Image">
     </div>
     <div class="photo tall">
-        <img src="/assets/images/2023_9.jpg" alt="Tall Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_9.jpg" alt="Tall Image">
     </div>
     <div class="photo tall">
-        <img src="/assets/images/2023_10.jpg" alt="Tall Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_10.jpg" alt="Tall Image">
     </div>
     <div class="photo tall">
-        <img src="/assets/images/2023_11.jpg" alt="Tall Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_11.jpg" alt="Tall Image">
     </div>
     <!-- Add more .photo divs with class 'wide' for wide images -->
 </div>
