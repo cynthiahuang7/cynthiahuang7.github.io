@@ -29,9 +29,9 @@ baseurl: "/i-see-blue" # the subpath of your site, e.g. /blog
 url: "https://cynthiahuang7.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 navigation:
   - title: "Moments"
-    url: /moments/
+    url: /i-see-blue/moments/
   - title: "Blogs"
-    url: /blogs/
+    url: /i-see-blue/blogs/
 #  - title: "Notes"
 #    url: /notes/
 # Build settings
