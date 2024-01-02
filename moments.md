@@ -66,22 +66,22 @@ permalink: /moments/
         <img src="{{ site.baseurl }}/assets/images/2023_3.jpg" alt="Tall Image">
     </div>
     <div class="photo tall">
-        <img src="{{ site.baseurl }}/assets/images/2023_4.jpg" alt="Tall Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_4.jpeg" alt="Tall Image">
     </div>
     <div class="photo tall">
         <img src="{{ site.baseurl }}/assets/images/2023_5.jpg" alt="Tall Image">
     </div>
     <div class="photo tall">
-        <img src="{{ site.baseurl }}/assets/images/2023_6.jpg" alt="Tall Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_6.jpeg" alt="Tall Image">
     </div>
     <div class="photo wide">
         <img src="{{ site.baseurl }}/assets/images/2023_7.jpg" alt="Wide Image">
     </div>
     <div class="photo wide">
-        <img src="{{ site.baseurl }}/assets/images/2023_8.jpg" alt="Wide Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_8.jpeg" alt="Wide Image">
     </div>
     <div class="photo tall">
-        <img src="{{ site.baseurl }}/assets/images/2023_9.jpg" alt="Tall Image">
+        <img src="{{ site.baseurl }}/assets/images/2023_9.jpeg" alt="Tall Image">
     </div>
     <div class="photo tall">
         <img src="{{ site.baseurl }}/assets/images/2023_10.jpg" alt="Tall Image">
