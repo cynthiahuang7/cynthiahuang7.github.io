@@ -3,7 +3,7 @@ layout: post
 title: "Seven Days of Cultivating Connections "
 date: 2024-01-02
 keywords: [Yoga, Connections]
-excerpt:  In the embrace of Puerta Vallarta’s natural splendor, my week at Beyond Yoga Retreat unfolded as a tapestry of deep connections — with the earth, with others, and within myself. ‘Connections,’ my chosen intention for the week, became the heartbeat of my journey, guiding me through transformative experiences and insights.
+excerpt:  With a heart open to growth and eyes ready to behold the unseen, I embarked on a transformative adventure at Beyond Yoga Retreat. It was not just a passage to tranquility; it was a doorway to deeper connections — with the vibrant pulse of the earth, the myriad souls around me, and the undiscovered depths within myself.
 ---
 
 With a heart open to growth and eyes ready to behold the unseen, I embarked on a transformative adventure at Beyond Yoga Retreat. It was not just a passage to tranquility; it was a doorway to deeper connections — with the vibrant pulse of the earth, the myriad souls around me, and the undiscovered depths within myself.
