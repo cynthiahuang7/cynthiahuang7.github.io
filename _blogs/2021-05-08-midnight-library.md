@@ -2,7 +2,7 @@
 layout: post
 title: "A Journey to One's Lives in the Parallel Universes"
 date: 2021-05-08
-categories: [Reading]
+keywords: [Book Review, Magical Realism]
 excerpt:  This post serves as a book review for "The Midnight Library." Within its pages, we delve into the world of the Midnight Library, where books open doorways to alternate lives. Here, Nora confronts the choices that have intricately woven the fabric of her own existence.
 ---
 

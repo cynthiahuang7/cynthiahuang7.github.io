@@ -2,7 +2,7 @@
 layout: post
 title: "The Story of Circe"
 date: 2020-06-02
-categories: [Reading]
+keywords: [Book Character, Circe, Mythological Fantasy]
 excerpt: This post provides a summary of the book 'Circe', delving into the life of a lesser goddess as she comes to terms with her immortality and embarks on a quest to discover her true purpose. Exploring Circe's character has been a profoundly enriching experience, with each stage revealing new layers of her personality and surprising me along the way. Her unwavering courage and determination shine through as she fearlessly navigates the challenges in her path, fiercely protecting what is dear to her heart. Circe may not be the most beautiful, powerful, or wise by divine standards, but her journey shows that she is much more than those traits – she is uniquely herself, and that is all she needs to be.
 ---
  

@@ -32,8 +32,8 @@ navigation:
     url: /moments/
   - title: "Blogs"
     url: /blogs/
-#  - title: "Notes"
-#    url: /notes/
+  - title: "About"
+    url: /about/
 # Build settings
 collections:
   notes:
@@ -43,11 +43,12 @@ collections:
     output: true
     permalink: /blogs/:name/
 header_pages:
+  - about.md
   - moments.md
-#  - notes.md
   - blogs.md
 theme: minima
 show_excerpts: true
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
