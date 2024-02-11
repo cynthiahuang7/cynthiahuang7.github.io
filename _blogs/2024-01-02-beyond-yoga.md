@@ -20,7 +20,7 @@ Within the nurturing embrace of the retreat, every meal became a meditation on m
 
 The enlightening pranayama sessions opened my eyes to the subtle yet powerful flow of life energy. We delved into the contrasts of control and awareness. I learned that in yoga, and perhaps in life, releasing the ego is crucial for connecting with something far grander than ourselves. A particularly poignant moment was the burning ceremony, a vivid symbol of life's fleeting nature. Surrounded by flickering flames and the night sky, I internalized the lesson of cherishing what matters and releasing the rest.
 
-WWhat I was most in awe of was undoubtedly the sound bath session. Under the blanket of the night sky, enveloped in the resonant vibrations of singing bowls, I embarked on a metaphysical journey beyond the earthly realm. Each note seemed to carry a wish for happiness and liberation for all beings across every universe. It was a deeply moving experience that redefined my understanding of joy and lightness, encouraging me to embrace not just the earth but the entire cosmos in my quest for connection.
+What I was most in awe of was undoubtedly the sound bath session. Under the blanket of the night sky, enveloped in the resonant vibrations of singing bowls, I embarked on a metaphysical journey beyond the earthly realm. Each note seemed to carry a wish for happiness and liberation for all beings across every universe. It was a deeply moving experience that redefined my understanding of joy and lightness, encouraging me to embrace not just the earth but the entire cosmos in my quest for connection.
 
 ### Connection with Others
 

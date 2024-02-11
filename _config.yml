@@ -28,13 +28,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cynthiahuang7.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 navigation:
-  - title: "Moments"
-    url: /moments/
-  - title: "Blogs"
-    url: /blogs/
   - title: "About"
     url: /about/
-# Build settings
+  - title: "Blogs"
+    url: /blogs/
+  - title: "Moments"
+    url: /moments/
 collections:
   notes:
     output: true
@@ -44,8 +43,8 @@ collections:
     permalink: /blogs/:name/
 header_pages:
   - about.md
-  - moments.md
   - blogs.md
+  - moments.md
 theme: minima
 show_excerpts: true
 markdown: kramdown
