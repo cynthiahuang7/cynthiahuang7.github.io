@@ -39,7 +39,7 @@ permalink: /about/
                     <p>Approximating Human-Like Few-Shot Learning using GPT-based Compression, Cynthia, H. & Yuqing, X. & Zhiying, J. & Jimmy, L. & Ming, L. Aug 2023. arXiv Preprint.</p>
                 </li>
                 <li>
-                    <p>Defensive Collaborative Learning: Protecting Objective Privacy in Data Sharing: Extended Abstract, Cynthia, H & Pascal P. 2023. In Proc. of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023).</p>
+                    <p>Defensive Collaborative Learning: Protecting Objective Privacy in Data Sharing: Extended Abstract, Cynthia, H & Pascal P. May 2023. AAMAS 2023.</p>
                 </li>
             </ul>
         </div>
