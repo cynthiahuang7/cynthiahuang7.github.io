@@ -2,7 +2,7 @@
 layout: post
 title: "Something about Ove"
 date: 2020-08-07
-keywords: [Book Review, Ove, Contemporary Fiction]
+keywords: [Reading, Ove, Contemporary Fiction]
 excerpt: This post is a book review for "A Man Called Ove." Ove's story is one of unwavering integrity and enduring love, showcasing the profound strength in the face of adversity and the tenderness in our heart when finding connections and love.
 ---
 

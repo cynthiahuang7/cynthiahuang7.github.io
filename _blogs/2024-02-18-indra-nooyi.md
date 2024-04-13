@@ -2,7 +2,7 @@
 layout: post
 title: "Unpacking Indra Nooyi’s 'My Life in Full'"
 date: 2024-02-18
-keywords: [Book Review, Memoir, Leadership]
+keywords: [Reading, Memoir, Leadership]
 excerpt: Indra Nooyi's "My Life in Full" goes beyond the memoir of a female CEO at a major corporation, offering a profound portrayal of a journey characterized by resilience, integrity, and a steadfast commitment to impactful change.
 ---
 

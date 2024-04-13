@@ -2,7 +2,7 @@
 layout: post
 title: "From Earth to the Universe: The Three-Body Trilogy"
 date: 2024-02-09
-keywords: [Book Review, Science Fiction]
+keywords: [Reading, Science Fiction]
 excerpt: The Three-Body Trilogy takes me on a gripping journey, beginning amidst the chaos of the Cultural Revolution in 'The Three-Body Problem,' progressing through the enlightening revelations of the Dark Forest Theory in 'The Dark Forest,' and culminating in the deep existential musings of 'Death's End.' This series offers a meditation on human civilization and highlights the extraordinary happenstance of our very existence.
 ---
 
