@@ -18,4 +18,4 @@ On a day when the air was alight with clarity, she realized all soils are kin—
 
 Her garden flourished, a riot of colors and fragrances, of shadows and sunbeams. It became a haven not just for her, but for travelers and friends, weary souls and jubilant hearts alike. Her voyages persisted, each return enriching her haven with new tales and seedlings.  At last, she had created a home, a base where all things started and where all things found its way back to the embrace of the lush earth.
 
-In her garden, amidst the rustling leaves and beneath the sentinel stars, the girl had discovered her true place. She embraced a revelation as gentle as the first light of dawn: the spirit of a garden lies not only in the splendor seen above but in the intertwined roots below, ever thriving, ever reaching, ever one.
+In her garden, amidst the rustling leaves and beneath the sentinel stars, the girl found where she truly belonged. There, she realized that the spirit of a garden lies not only in the splendor seen above but in the intertwined roots below, ever thriving, ever reaching, ever one.
