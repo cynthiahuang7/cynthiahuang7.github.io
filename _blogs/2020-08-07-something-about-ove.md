@@ -3,10 +3,10 @@ layout: post
 title: "Something about Ove"
 date: 2020-08-07
 keywords: [Reading, Ove, Contemporary Fiction]
-excerpt: This post is a book review for "A Man Called Ove." Ove's story is one of unwavering integrity and enduring love, showcasing the profound strength in the face of adversity and the tenderness in our heart when finding connections and love.
+excerpt: This post is a book review for "A Man Called Ove." Ove's story is one of unwavering integrity and enduring love, showcasing the profound strength in the face of adversity and the deep capacity in our heart for connection and love.
 ---
 
-There is something about Ove that deeply touched my heart, so much so that every reading session ended with tears. I would like to believe that those tears carry a special meaning, and yet, I could not pinpoint what it was.
+There is something about Ove that deeply touched my heart, so much so that every reading session ended with tears. I believe those tears carry a special meaning, and yet, I could not pinpoint what it was.
 
 It is not so much about him losing his father at an early age and having to fend for himself. It is not so much about the losses that he and Sonja endured in their life: witnessing the house he built burn down, the passing of Sonja’s father and their beloved cat, and the heartbreaking miscarriage caused by a drunk driver. And it is also not so much about him losing Sonja to cancer and giving in to despair.
 
