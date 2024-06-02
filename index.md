@@ -14,8 +14,8 @@ layout: home
 </head>
 
 <blockquote class="custom-quote">
-  Freedom invites where ocean waves kiss the sky;<br>
-  May the smiling heart always open for the ventures within.
+  Freedom invites where ocean waves meet the sky;<br>
+  May the heart find bliss in the journey within.
 </blockquote>
 
 <img src="assets/images/background.jpg" alt="Italian Trulli"  width="550">
