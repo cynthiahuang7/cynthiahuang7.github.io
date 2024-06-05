@@ -2,7 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+description: "I See Blue is Cynthia Huang's personal website featuring blogs, notes on AI research and product topics, moments captured in photos, and insights into her professional journey as a Senior Product Manager and PhD student in Computer Science."
+keywords: "Cynthia Huang, I See Blue, Multi-Agent Reinforcement Learning, Capital Markets, Generative AI Products, Blogs on Spiritual Growth, Book Reviews, AI Notes"
 ---
+
 <head>
   <style>
     .custom-quote {

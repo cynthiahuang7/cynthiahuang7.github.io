@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seven Days of Cultivating Connections "
+title: "Seven Days of Cultivating Connections"
 date: 2024-01-02
 keywords: [Yoga, Connections]
 excerpt:  With an open heart and a sense of curiosity, I embarked on a transformative adventure at Beyond Yoga Retreat. It was not just a journey to tranquility; it was a doorway to deeper connections — with nature, the people around me, and the depths within myself.
